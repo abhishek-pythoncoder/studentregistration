@@ -1,0 +1,5 @@
+*.pyc
+*.log
+registration/db.sqlite3
+*.sqlite3
+registration/attachments/*

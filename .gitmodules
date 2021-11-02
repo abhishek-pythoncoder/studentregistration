@@ -1,0 +1,5 @@
+[submodule "alimregoui"]
+	path = alimregoui
+    url = https://github.com/timrajan/alimregoui.git
+    branch = master
+    update = merge
